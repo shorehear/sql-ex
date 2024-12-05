@@ -11,3 +11,6 @@ ON
     pc1.ram = pc2.ram 
     AND pc1.speed = pc2.speed 
     AND pc1.model > pc2.model
+
+
+ Найдите размеры жестких дисков, совпадающих у двух и более PC. Вывести: HD 
